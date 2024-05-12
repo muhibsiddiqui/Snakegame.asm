@@ -71,4 +71,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
  ---
   
-**Copyright © 2023 Muhammad Muhib Siddiqui. All Rights Reserved.**
+**Copyright © 2024 Muhammad Muhib Siddiqui. All Rights Reserved.**
